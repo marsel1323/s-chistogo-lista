@@ -23,7 +23,6 @@ blockquote {
     box-sizing: border-box;
     width: 100%;
     max-width: 360px;
-    min-height: 100px;
     margin: auto;
 }
 
